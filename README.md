@@ -17,52 +17,26 @@
 
 <br/><br/>
 
-##### Tela principal:
+## Função Aprendiz X Humano:
+#### Aqui você joga com o robô aprendiz:
 
 <div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/9713c990906c15e5a6a551aefe9ee67c547b26b2/pranchetaVirtual12.jpeg" title="Git" **alt="Git" width="360" height="650" />
+   <img src="https://github.com/mhmatsumura/imagens/blob/f10b09e9bc2558cc3cd416b379730a2d9d6d0b85/print_tictactoe/ticatactoe4.jpeg" title="Git" **alt="Git" width="320" height="650" />
 </div>
 <br/><br/>
 
-##### Função "Adicionar Serviços":
+## Função "Aprendiz X Robô":
+#### Aqui o robô aprendiz joga com o robô inteligente:
 
 <div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/9713c990906c15e5a6a551aefe9ee67c547b26b2/pranchetaVirtual11.jpeg" title="Git" **alt="Git" width="360" height="650" />
+   <img src="https://github.com/mhmatsumura/imagens/blob/f10b09e9bc2558cc3cd416b379730a2d9d6d0b85/print_tictactoe/ticatactoe2.jpeg" title="Git" **alt="Git" width="320" height="650" />
 </div>
 <br/><br/>
 
-##### Função "Pesquisar IP":
+## Função "Treinar Aprendiz":
+#### Aqui o robô aprendiz joga inúmeras vezes com o robô inteligente e vai aprendendo com cada iteração:
 
 <div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/9713c990906c15e5a6a551aefe9ee67c547b26b2/pranchetaVirtual.jpeg" title="Git" **alt="Git" width="360" height="650" />
+   <img src="https://github.com/mhmatsumura/imagens/blob/f10b09e9bc2558cc3cd416b379730a2d9d6d0b85/print_tictactoe/ticatactoe3.jpeg" title="Git" **alt="Git" width="320" height="650" />
 </div>
 <br/><br/>
-
-##### Menu "Atualizar Cadastro de IP":
-
-<div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/9713c990906c15e5a6a551aefe9ee67c547b26b2/pranchetaVirtual2.jpeg" title="Git" **alt="Git" width="360" height="650" />
-</div>
-<br/><br/>
-
-##### Menu de funções:
-
-<div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/cd11e68feb7050d91a9109f51340ad8dc80811a4/pranchetaVirtual4.jpeg" title="Git" **alt="Git" width="360" height="650" />
-</div>
-<br/><br/>
-
-##### Função "Cadastrar Colaborador":
-
-<div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/cd11e68feb7050d91a9109f51340ad8dc80811a4/pranchetaVirtual3.jpeg" title="Git" **alt="Git" width="360" height="650" />
-</div>
-<br/><br/>
-
-##### Função "Marcar como Executado":
-
-<div>
-   <img src="https://github.com/mhmatsumura/imagens/blob/9713c990906c15e5a6a551aefe9ee67c547b26b2/pranchetaVirtual7.jpeg" title="Git" **alt="Git" width="360" height="650" />
-</div>
-<br/><br/>
-
