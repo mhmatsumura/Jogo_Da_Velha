@@ -2,19 +2,24 @@
 #### Aplicativo desenvolvido no TCC da pós graduação. Foi implementado o algoritmo de APRENDIZADO POR REFORÇO Q-Learning.
 
 ##### Tecnologias utilizadas:
-- BaseAdapter
-- ImageView
-- TextView 
-- ViewGroup
-- LayoutInflater
-- SimpleDateFormat
-- ArrayList
-- List
-- SQLiteDatabase
-- SQLiteOpenHelper
+- Fragment
+- NavHostFragment
+- AppCompatActivity
+- OnClickListener
 - Serializable
-- BroadcastReceiver 
-
+- ImageView
+- ProgressBar
+- RadioButton
+- RadioGroup
+- TextView
+- Toast
+- MenuItem
+- Menu
+- ArrayList
+- Iterator
+- Toolbar
+- Handler
+- View
 <br/><br/>
 
 ## Função Aprendiz X Humano:
